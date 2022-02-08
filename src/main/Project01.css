@@ -1,0 +1,30 @@
+.project01 {
+  height: 70px;
+  width: 200px;
+  border-radius: 80px;
+  overflow: hidden;
+  background-color: rgba(203, 119, 224, 0.486);
+  border: solid 1px rgb(83, 83, 83);
+  box-shadow: 0px 4px 20px rgb(0, 0, 0);
+
+}
+
+.entrada {
+  font-weight: bold;
+  color: black;
+  border-radius: 80px;
+  background-color: rgba(137, 43, 226, 0.164);
+  text-align: center;
+}
+
+.saida {
+  font-weight: bold;
+  height: 24px;
+  border-radius: 80px;
+  background-color: rgba(137, 43, 226, 0.164);
+  border: solid 1px rgb(150, 150, 150);
+}
+
+.saida:active {
+  background-color: rgb(141, 65, 131);
+}
